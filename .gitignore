@@ -1,0 +1,4 @@
+# Project exclude paths
+/api-rest-commonJS/node_modules/
+/api-rest-module/node_modules/
+/node_modules/
